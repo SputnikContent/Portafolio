@@ -47,7 +47,7 @@ body {
 
 .logo:hover {
     background-color: var(--primary-color);
-    color: transparent;
+    color: #000000;
 }
 
 .nav-links {
@@ -102,4 +102,5 @@ body {
 
 .chat-icon:hover {
     transform: translateY(-5px) scale(1.1);
+
 }
